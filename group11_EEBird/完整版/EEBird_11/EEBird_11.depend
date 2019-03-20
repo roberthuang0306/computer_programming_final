@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1515324605 source:c:\users\育萱\desktop\eebird_11\barrier.cpp
+	"Barrier.hpp"
+
+1515324605 c:\users\育萱\desktop\eebird_11\barrier.hpp
+	"Header.h"
+	<stdio.h>
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	"LTexture.hpp"
+
+1515342974 c:\users\育萱\desktop\eebird_11\header.h
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<SDL_mixer.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1515001284 c:\users\育萱\desktop\eebird_11\ltexture.hpp
+	"Header.h"
+	<stdio.h>
+	<string>
+	<stdio.h>
+
+1515324605 source:c:\users\育萱\desktop\eebird_11\bird.cpp
+	"Bird.h"
+
+1515342975 c:\users\育萱\desktop\eebird_11\bird.h
+	"Header.h"
+	<stdio.h>
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"LTexture.hpp"
+
+1515342974 source:c:\users\育萱\desktop\eebird_11\button.cpp
+	"Button.h"
+
+1515342974 c:\users\育萱\desktop\eebird_11\button.h
+	"Header.h"
+	<stdio.h>
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	"LTexture.hpp"
+
+1515262724 source:c:\users\育萱\desktop\eebird_11\highscore.cpp
+	<stdio.h>
+	"highscore.h"
+
+1515260122 c:\users\育萱\desktop\eebird_11\highscore.h
+	"Header.h"
+
+1514452296 source:c:\users\育萱\desktop\eebird_11\ltexture.cpp
+	"LTexture.hpp"
+
+1515342974 source:c:\users\育萱\desktop\eebird_11\main.cpp
+	"Header.h"
+	"LTexture.hpp"
+	"Barrier.hpp"
+	"Bird.h"
+	"Button.h"
+	"score.h"
+	"Start.h"
+	"highscore.h"
+
+1515324605 c:\users\育萱\desktop\eebird_11\score.h
+	"Header.h"
+	<stdio.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"LTexture.hpp"
+	"Barrier.hpp"
+
+1515342974 c:\users\育萱\desktop\eebird_11\start.h
+	"Header.h"
+	<stdio.h>
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	"LTexture.hpp"
+
+1515324605 source:c:\users\育萱\desktop\eebird_11\score.cpp
+	"score.h"
+
+1515343040 source:c:\users\育萱\desktop\eebird_11\start.cpp
+	"Start.h"
+
